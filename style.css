@@ -30,3 +30,6 @@
 html, body {
     font-family: "Anonymous Pro", monospace;
 }
+img {
+ border-radius: 7px; 
+}
